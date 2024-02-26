@@ -1,0 +1,17 @@
+{
+  "name": "face-position-validator",
+  "version": "1.0.0",
+  "description": "A React application that validates whether a person is sitting properly in front of the webcam with their facial traits clearly visible.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "express": "^4.17.2",
+    "react-router-dom": "^6.2.1",
+    "react-scripts": "^5.0.0"
+  }
+}
